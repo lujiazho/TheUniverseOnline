@@ -1,5 +1,5 @@
 # TheUniverseOnline
-An application based on ReactJS for exploring the universe, mainly the Earth for now.
+An application based on ReactJS for exploring the universe, mainly the Earth for now. Pictures for landscape and different countries are in shortage for now.
 
 <center>
   <img src="demos/demo.gif" width="600"/>
@@ -12,7 +12,7 @@ Development IDE：IntelliJ IDEA
 
 Transcompiler: UmiJS (between ES6/JSX and ES5)
 
-Routing and State Management: DVA (based on Redux and react-router)
+Routing and State Management: DVA (split Model/data from View/page)
 
 ## Run
 
