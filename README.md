@@ -14,6 +14,8 @@ Transcompiler: UmiJS (between ES6/JSX and ES5)
 
 Routing and State Management: DVA (split Model/data from View/page)
 
+Geojson: Leaflet
+
 ## Run
 
 1. Install dependencies/packages.
