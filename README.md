@@ -1,5 +1,5 @@
 # TheUniverseOnline
-An application based on ReactJS for exploring the universe, mainly the Earth for now. Pictures for landscape and different countries are in shortage for now.
+An application based on ReactJS for exploring the universe, mainly the Earth for now. Pictures for landscape and different countries are still in shortage and will be added more.
 
 <center>
   <img src="demos/demo.gif" width="600"/>
