@@ -1,0 +1,10 @@
+{
+  "name": "TheUniverseOnline",
+  "version": "1.0.0",
+  "main": "src/pages/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "umi": "^3.5.32",
+    "@umijs/preset-react": "^1"
+  }
+}
