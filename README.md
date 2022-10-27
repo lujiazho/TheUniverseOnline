@@ -18,7 +18,12 @@ Geojson: Leaflet
 
 ## Run
 
-1. Install dependencies/packages.
+1. Install umi
+```
+yarn global add umi@3.5.32
+```
+
+3. Install dependencies/packages.
 ```
 yarn install
 ```
