@@ -18,7 +18,12 @@ Geojson: Leaflet
 
 ## Run
 
-1. Install umi
+1. Start a container
+```
+docker run --rm -it -p 8000:8000 node:14 /bin/bash
+```
+
+2. Install umi
 ```
 yarn global add umi@3.5.32
 ```
@@ -28,7 +33,7 @@ yarn global add umi@3.5.32
 yarn install
 ```
 
-2. Run
+4. Run
 ```
 umi dev
 ```
