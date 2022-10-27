@@ -37,3 +37,8 @@ yarn install
 ```
 umi dev
 ```
+
+5. Enter in browser
+```
+http://localhost:8000
+```
